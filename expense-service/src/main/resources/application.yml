@@ -1,0 +1,14 @@
+server:
+  port: 8081
+
+oauth:
+  signing:
+    key: ierslcjer34ksd30987sdlsdjhsdh
+
+security:
+  basic:
+    enabled: false
+
+api:
+  request:
+    origin: http://localhost:8082
